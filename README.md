@@ -1,6 +1,6 @@
 # Comparing the Performance of LLMs: A Deep Dive into Roberta, Llama, and Mistral for Disaster Tweets Analysis with Lora
 
-![Thumbnail](assets/Thumbnail.png)
+![Thumbnail](Thumbnail.png)
 
 
 This is the python script to run the models. 
